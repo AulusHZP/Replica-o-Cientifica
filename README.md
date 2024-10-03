@@ -9,11 +9,11 @@ O artigo [BitTorrent Traffic from a Caching Perspective](https://doi.org/10.1007
 O objetivo da oficina de replicação é replicar essa análise no contexto de um repositório de software, analisando os tamanhos dos commits feitos no repositório de controle de versão tensorflow. Busca-se responder à seguinte pergunta: No repositório tensorflow, uma pequena fração dos commits é responsável pela maior parte do código modificado, seguindo um comportamento de cauda longa semelhante ao observado no tráfego de arquivos em redes BitTorrent?
 
 ## Fases da replicação e códigos associados
-1.Coletar dados de cada commit feito no repositório. Código [analise_commits.py](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/analise_commits.py)<br>
-2.Gerar o gráfico CDF com a mesma lógica (eixos X e Y) do artigo-base [cdf_commits_tensorflow.png](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/cdf_commits_tensorflow.png)
+1. Coletar dados de cada commit feito no repositório. Código [analise_commits.py](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/analise_commits.py)<br>
+2. Gerar o gráfico CDF com a mesma lógica (eixos X e Y) do artigo-base [cdf_commits_tensorflow.png](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/cdf_commits_tensorflow.png)
 
 ## Dados usados coletados e gerados na replicação
-Os resultados da replicação foram materializados na forma de um gráfico CDF que demonstra a distribuição dos tamanhos dos commits no repositório analisado. O gráfico pode ser visualizado no arquivo cdf_commits_tensorflow.png
+Os resultados da replicação foram materializados na forma de um gráfico CDF que demonstra a distribuição dos tamanhos dos commits no repositório analisado. O gráfico pode ser visualizado no arquivo c[cdf_commits_tensorflow.png](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/cdf_commits_tensorflow.png) o gráfico base em que nossa replicação foi baseado foi o [Gráfico Base](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/GraficoBase.jpg)
 
 ---
 _Áulus Arcanjo Alves Batista_<br>
