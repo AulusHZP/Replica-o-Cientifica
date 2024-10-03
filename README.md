@@ -16,6 +16,6 @@ O objetivo da oficina de replicação é replicar essa análise no contexto de u
 Os resultados da replicação foram materializados na forma de um gráfico CDF que demonstra a distribuição dos tamanhos dos commits no repositório analisado. O gráfico pode ser visualizado no arquivo cdf_commits_tensorflow.png
 
 ---
-_Áulus Arcanjo Alves Batista_
-_Henrique Leite Najar_
-_Leonardo de Freitas Viana_
+_Áulus Arcanjo Alves Batista_<br>
+_Henrique Leite Najar_<br>
+_Leonardo de Freitas Viana_<br>
