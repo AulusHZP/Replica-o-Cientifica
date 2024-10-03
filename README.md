@@ -1,1 +1,1 @@
-# Replica-o-Cientifica
+# Replicação Científica
