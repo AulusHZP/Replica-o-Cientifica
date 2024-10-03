@@ -9,7 +9,7 @@ O artigo [BitTorrent Traffic from a Caching Perspective](https://doi.org/10.1007
 O objetivo da oficina de replicação é replicar essa análise no contexto de um repositório de software, analisando os tamanhos dos commits feitos no repositório de controle de versão tensorflow. Busca-se responder à seguinte pergunta: No repositório tensorflow, uma pequena fração dos commits é responsável pela maior parte do código modificado, seguindo um comportamento de cauda longa semelhante ao observado no tráfego de arquivos em redes BitTorrent?
 
 ## Fases da replicação e códigos associados
-1.Coletar dados de cada commit feito no repositório. Código analise_commits.py
+1.Coletar dados de cada commit feito no repositório. Código analise_commits.py<br>
 2.Gerar o gráfico CDF com a mesma lógica (eixos X e Y) do artigo-base. cdf_commits_tensorflow.png
 
 ## Dados usados coletados e gerados na replicação
