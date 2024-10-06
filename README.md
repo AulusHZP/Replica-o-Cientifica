@@ -13,7 +13,7 @@ O objetivo da oficina de replicação é replicar essa análise no contexto de u
 2. Gerar o gráfico CDF com a mesma lógica (eixos X e Y) do artigo-base [cdf_commits_tensorflow.png](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/cdf_commits_tensorflow.png)
 
 ## Dados usados coletados e gerados na replicação
-Os resultados da replicação foram materializados na forma de um gráfico CDF que demonstra a distribuição dos tamanhos dos commits no repositório analisado. O gráfico pode ser visualizado no arquivo c[cdf_commits_tensorflow.png](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/cdf_commits_tensorflow.png) o gráfico base em que nossa replicação foi baseado foi o [Gráfico Base](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/GraficoBase.jpg)
+Os resultados da replicação foram materializados na forma de um gráfico CDF que demonstra a distribuição dos tamanhos dos commits no repositório analisado. O gráfico pode ser visualizado no arquivo [cdf_commits_tensorflow.png](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/cdf_commits_tensorflow.png) o gráfico base em que nossa replicação foi baseado foi o [Gráfico Base](https://github.com/AulusHZP/ReplicaoCientifica/blob/main/GraficoBase.jpg)
 
 ---
 _Áulus Arcanjo Alves Batista_<br>
